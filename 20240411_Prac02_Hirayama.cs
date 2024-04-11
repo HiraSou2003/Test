@@ -11,11 +11,15 @@ namespace Test
         static void Main(string[] args)
         {
             // 変数宣言
-            int x= 7;
+            int num1 = 7;
 
-            // 表示
-            Console.WriteLine(x * 3);
-            Console.WriteLine(x / 2);
+            // 変数ｘの値を３倍にする
+            num1 *= 3;
+            Console.WriteLine(num1);
+
+            // 変数ｘの値を半分にする
+            num1 /= 2;
+            Console.WriteLine(num1);
         }
     }
 }

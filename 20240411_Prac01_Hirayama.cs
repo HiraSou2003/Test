@@ -1,6 +1,12 @@
-﻿namespace Test
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Test
 {
-    internal class _20240411_Prac01_Hiranum2ama
+    internal class _20240411_Prac01_Hirayama
     {
         static void Main(string[] args)
         {
