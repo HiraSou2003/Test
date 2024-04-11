@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="20240411_Prac01_Hirayama.cs" />
     <Compile Remove="Class1.cs" />
   </ItemGroup>
 
