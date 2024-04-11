@@ -1,21 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Test
+﻿namespace Test
 {
-    internal class _20240411_Prac01_Hirayama
+    internal class _20240411_Prac01_Hiranum2ama
     {
         static void Main(string[] args)
         {
             // 変数宣言
-            int x = 13;
-            int y = 17;
+            int num1 = 13;
+            int num2 = 17;
+            var num3 = 1.2;
 
             // 表示
-            Console.WriteLine($"x = {x}, y = {y}");
+            Console.WriteLine($"num1 = {num1}, num2 = {num2}, num3 = {num3}");
         }
     }
 }
