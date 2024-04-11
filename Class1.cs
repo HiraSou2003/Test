@@ -10,7 +10,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console. WriteLine("あんたの名前は？");
+            Console. WriteLine("あなたの名前は？");
 
             string name = Console.ReadLine();                         // 入力
             Console.WriteLine($"こんにちは、{name}さん");       // パターン１
