@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <Compile Remove="20240411_Prac01_Hirayama.cs" />
+    <Compile Remove="20240411_Prac02_Hirayama.cs" />
+    <Compile Remove="20240418_ex.cs" />
     <Compile Remove="Class1.cs" />
   </ItemGroup>
 
